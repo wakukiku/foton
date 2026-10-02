@@ -1,0 +1,61 @@
+{
+  "id": "foton",
+  "name": "ФОТОН",
+  "description": "Камеры и плёнка для внимательного взгляда.",
+  "products": [
+    {
+      "id": "f1",
+      "name": "Механика 35",
+      "category": "Камеры",
+      "price": 24900,
+      "subtitle": "35 мм / ручная экспозиция",
+      "image": "assets/camera.jpg",
+      "format": "135",
+      "type": "camera",
+      "stock": 5,
+      "size": "Корпус · 510 г",
+      "material": "Металл"
+    },
+    {
+      "id": "f2",
+      "name": "Квадрат 6×6",
+      "category": "Камеры",
+      "price": 38900,
+      "subtitle": "Средний формат / шахтный видоискатель",
+      "image": "assets/camera2.jpg",
+      "format": "120",
+      "type": "camera",
+      "stock": 3,
+      "size": "Корпус · 920 г",
+      "material": "Металл"
+    },
+    {
+      "id": "f3",
+      "name": "День 400",
+      "category": "Плёнка",
+      "price": 1690,
+      "subtitle": "36 кадров / цветная негативная",
+      "image": "assets/film.jpg",
+      "format": "135",
+      "type": "film",
+      "iso": 400,
+      "stock": 30,
+      "size": "36 кадров",
+      "material": "Цветная негативная"
+    },
+    {
+      "id": "f4",
+      "name": "Тени 100",
+      "category": "Плёнка",
+      "price": 1290,
+      "subtitle": "12 кадров / чёрно-белая",
+      "image": "assets/film2.jpg",
+      "format": "120",
+      "type": "film",
+      "iso": 100,
+      "stock": 20,
+      "size": "12 кадров 6 × 6",
+      "material": "Чёрно-белая негативная"
+    }
+  ]
+}
